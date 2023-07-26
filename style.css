@@ -1,0 +1,134 @@
+h1 {
+    background-color: green;
+    text-align: center;
+    line-height: 2;
+    letter-spacing: 10px;
+    border-radius: 10%;
+}
+
+h3 {
+    background-color: green;
+    text-align: center;
+    line-height: 2;
+    letter-spacing: 10px;
+    border-radius: 10%;
+    text-decoration: underline;
+}
+
+table {
+    float: right;
+}
+
+select {
+    float: left;
+}
+
+.img10 {
+    float: right;
+    width: 200px;
+    height: 200px;
+    background-image: url(ney.jpg);
+    background-size: cover;
+    background-position: center;
+    border: white 3px solid;
+    outline: 2px lightgray solid;
+    transition: 2s;
+}
+
+.img:hover {
+    border-radius: 40%;
+}
+
+.img1 {
+
+    float: right;
+    width: 200px;
+    height: 200px;
+    background-image: url(mes.webp);
+    background-size: cover;
+    border: white 3px solid;
+    outline: 2px lightgray solid;
+    transition: 2s;
+
+}
+
+.imj {
+    letter-spacing: 5px;
+}
+
+.ronal {
+
+    float: right;
+    width: 200px;
+    height: 200px;
+    background-image: url(ronal.webp);
+    background-size: cover;
+    border: white 3px solid;
+    outline: 2px lightgray solid;
+    transition: 2s;
+}
+.nazar{
+    float: right;
+    width: 200px;
+    height: 200px;
+    background-image: url(nazario.jpg);
+    background-size: cover;
+    border: white 3px solid;
+    outline: 2px lightgray solid;
+    transition: 2s;
+
+}
+.benze{
+    float: right;
+    width: 200px;
+    height: 200px;
+    background-image: url(benz.jpg);
+    background-size: cover;
+    border: white 3px solid;
+    outline: 2px lightgray solid;
+    transition: 2s;
+}
+.mbappe{
+    float: right;
+    width: 200px;
+    height: 200px;
+    background-image: url(mbappe.webp);
+    background-size: cover;
+    border: white 3px solid;
+    outline: 2px lightgray solid;
+    transition: 2s;
+
+}
+.suar{
+    float: right;
+    width: 200px;
+    height: 200px;
+    background-image: url(suarez.jpg);
+    background-size: cover;
+    border: white 3px solid;
+    outline: 2px lightgray solid;
+    transition: 2s;
+
+}
+.ronaldin{
+    float: right;
+    width: 200px;
+    height: 200px;
+    background-image: url(ronaldinho.jpg);
+    background-size: cover;
+    border: white 3px solid;
+    outline: 2px lightgray solid;
+    transition: 2s;
+
+}
+.carlos{
+    float: right;
+    width: 200px;
+    height: 200px;
+    background-image: url(carlos.jpg);
+    background-size: cover;
+    border: white 3px solid;
+    outline: 2px lightgray solid;
+    transition: 2s;
+
+}
