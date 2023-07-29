@@ -13,6 +13,9 @@ h3 {
     letter-spacing: 10px;
     border-radius: 10%;
     text-decoration: underline;
+    position: sticky;
+    top: 0;
+    width: 100%;
 }
 
 table {
@@ -67,7 +70,8 @@ select {
     outline: 2px lightgray solid;
     transition: 2s;
 }
-.nazar{
+
+.nazar {
     float: right;
     width: 200px;
     height: 200px;
@@ -78,7 +82,8 @@ select {
     transition: 2s;
 
 }
-.benze{
+
+.benze {
     float: right;
     width: 200px;
     height: 200px;
@@ -88,7 +93,8 @@ select {
     outline: 2px lightgray solid;
     transition: 2s;
 }
-.mbappe{
+
+.mbappe {
     float: right;
     width: 200px;
     height: 200px;
@@ -99,7 +105,8 @@ select {
     transition: 2s;
 
 }
-.suar{
+
+.suar {
     float: right;
     width: 200px;
     height: 200px;
@@ -110,7 +117,8 @@ select {
     transition: 2s;
 
 }
-.ronaldin{
+
+.ronaldin {
     float: right;
     width: 200px;
     height: 200px;
@@ -121,7 +129,8 @@ select {
     transition: 2s;
 
 }
-.carlos{
+
+.carlos {
     float: right;
     width: 200px;
     height: 200px;
@@ -131,4 +140,6 @@ select {
     outline: 2px lightgray solid;
     transition: 2s;
 
+}
+z{
 }
