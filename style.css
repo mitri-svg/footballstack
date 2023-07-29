@@ -129,7 +129,6 @@ select {
     transition: 2s;
 
 }
-
 .carlos {
     float: right;
     width: 200px;
@@ -139,7 +138,4 @@ select {
     border: white 3px solid;
     outline: 2px lightgray solid;
     transition: 2s;
-
-}
-z{
 }
